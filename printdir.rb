@@ -4,7 +4,7 @@
 class Printdir < Formula
   desc ""
   homepage ""
-  url "https://github.com/gospodinzerkalo/printdir/archive/refs/tags/v1.0.1.tar.gz"
+  url "https://github.com/gospodinzerkalo/printdir/archive/refs/tags/v1.0.2.tar.gz"
   sha256 "531774954671b26cff95133add28657dfef020c2b6fd2844d8ea80ba7e5d2a3b"
   license ""
 
